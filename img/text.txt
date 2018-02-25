@@ -1,0 +1,13 @@
+.Marketing {
+  font-size: 22px;
+  font-family: "Raleway";
+  color: rgb( 85, 85, 85 );
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  left: 1362px;
+  top: 1182px;
+  width: 103px;
+  height: 21px;
+  z-index: 100;
+}
