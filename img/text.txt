@@ -1,13 +1,99 @@
-.Marketing {
-  font-size: 22px;
-  font-family: "Raleway";
-  color: rgb( 85, 85, 85 );
-  font-weight: bold;
-  text-align: center;
-  position: absolute;
-  left: 1362px;
-  top: 1182px;
-  width: 103px;
-  height: 21px;
-  z-index: 100;
-}
+Waxom Logo
+Waxom
+Home
+About us
+Portfolio
+Features
+Blog
+Pricing
+Shortcodes
+Contact
+Waxom Company
+Our offers
+        
+Unique and Modern Design
+Portfolio PSD Template
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+
+Get started
+Other text for slide number 2
+Portfolio PSD Template
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+
+Get started
+Other text for slide number 3
+Portfolio PSD Template
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+
+Get started
+Other text for slide number 4
+Portfolio PSD Template
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+
+Get started
+Other text for slide number 5
+Portfolio PSD Template
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
+
+Get started
+ ‹  ›
+Our services
+Web & App Design
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim.
+
+Development
+Lorem ipsum dolor sit amet, adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.
+
+Customization
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim.
+
+Marketing
+Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim.
+
+Waxom is realization of your ideas
+Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium.
+
+Waxom Multipurpose WordPress Theme
+Don't Forget to Rate the Template. Thanks so much!
+
+Purchase Now
+Our Latest Projects
+Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium.
+
+         all web design mobile app illustration photography  Load more
+Claritas Etiam Processus image
+Claritas Etiam Processus
+
+Photography, Nature
+
+перейти  увеличить
+Quam Nutamus Farum image
+Quam Nutamus Farum
+
+Graphic Design, Mock-Up
+
+перейти  увеличить
+Usus Legentis Videntur image
+Usus Legentis Videntur
+
+Photography, Holiday
+
+перейти  увеличить
+Claritas Etiam Processus image
+Claritas Etiam Processus
+
+Photography, Nature
+
+перейти  увеличить
+Quam Nutamus Farum image
+Quam Nutamus Farum
+
+Graphic Design, Mock-Up
+
+перейти  увеличить
+Usus Legentis Videntur image
+Usus Legentis Videntur
+
+Photography, Holiday
+
+перейти  увеличить
